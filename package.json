@@ -1,5 +1,5 @@
 {
-  "homepage": "https://63vicky.github.io",
+  "homepage": "https://63vicky.github.io/login-app",
   "name": "login-app",
   "version": "0.1.0",
   "private": true,
@@ -17,7 +17,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -b master -d build",
+    "deploy": "gh-pages -b main -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
